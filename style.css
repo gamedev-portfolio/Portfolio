@@ -95,3 +95,9 @@ img
 {
     border-radius: 5px;
 }
+
+p
+{
+    font-family: Georgia, serif;
+    font-weight: 400;
+}
